@@ -1,0 +1,34 @@
+.carousel {
+    margin: 30px;
+    height: auto;
+    max-width: 100%;
+}
+
+.card {
+    margin: 20px;
+}
+
+.cover {
+    width: 200px;
+    height: 200px;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+.video {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    display: flex;
+}
+
+.btn-group {
+    display: flex !important;
+    justify-content: center;
+}
+
+.btn-group a {
+    margin: 20px;
+}
